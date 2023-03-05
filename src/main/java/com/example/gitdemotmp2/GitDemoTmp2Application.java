@@ -8,6 +8,8 @@ public class GitDemoTmp2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(GitDemoTmp2Application.class, args);
+
+        System.out.println("第二次修改");
     }
 
 }
