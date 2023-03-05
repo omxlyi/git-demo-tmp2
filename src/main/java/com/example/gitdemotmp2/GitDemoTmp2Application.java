@@ -20,6 +20,8 @@ public class GitDemoTmp2Application {
         System.out.println("第五次修改 in 2.0");
 
         System.out.println("第六次修改 push test");
+
+        System.out.println("第七次修改 in github");
     }
 
 }
